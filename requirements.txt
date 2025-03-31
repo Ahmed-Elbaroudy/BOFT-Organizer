@@ -1,0 +1,8 @@
+tkinter
+watchdog
+Pillow
+pystray
+python-dateutil
+jsonschema
+requests
+psutil
