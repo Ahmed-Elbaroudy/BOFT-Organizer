@@ -5,8 +5,6 @@ A cross-platform file organization tool that automatically/manually sorts your f
 ## Features
 
 - Automatic file organization based on file type
-- Customizable file categories
-- Auto-organize mode that monitors folders for new files
 - System tray integration
 - Startup configuration options
 
