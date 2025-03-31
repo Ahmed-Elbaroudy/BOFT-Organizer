@@ -41,5 +41,4 @@ python BOFT.pyw
 The application stores its configuration in `~/.boft_config.json`. You can customize:
 - Auto-organize folder path
 - File categories
-- Theme preferences
 - Startup behavior
